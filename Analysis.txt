@@ -1,0 +1,17 @@
+Analysis:
+
+1) Capomulin and Ramicaine were the only drugs who had a negative impact  
+    on tumor size.
+
+2) Capomulin was more efficient then Ramicaine at keeping the mice
+    alive than Ramicaine.
+
+3) On average, tumors treated wth Ramicaine decreased in size more, 
+    and had less metastatic sites.  
+
+4) Surprisingly, the placebo doesn't have the lowest survival rates,
+    there are some drugs who's performance loks sub-placebo performance,
+    does this mean they are actaully aiding the development of Cancer?
+    Could these drugs help us understand thedevelopment of Cancer through
+    closer analysis. Ketapril increseas the size the most and has the most
+    amount of metastatic sites from all the drugs. 
